@@ -188,6 +188,7 @@ Hands-on training and project experience in Flutter and Dart, with practical exp
 ### B.Tech in Computer Science & Design Engineering
 
 **Vimal Jyothi Engineering College, Kerala**
+
 **APJ Abdul Kalam Technological University (KTU)**
 
 **Graduated: 2026**
