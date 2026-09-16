@@ -545,5 +545,5 @@ I'm particularly interested in opportunities where I can **learn, build, solve r
 ## 🔗 Connect With Me
 
 * 💼 LinkedIn: [Ann Maria](https://www.linkedin.com/in/ann-maria-869154322)
-* 💻 GitHub: [@annmaria5804-2004](https://github.com/annmaria5804-2004/))
+* 💻 GitHub: [@annmaria5804-2004](https://github.com/annmaria5804-2004/)
 
