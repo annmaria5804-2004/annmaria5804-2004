@@ -100,10 +100,9 @@ Technologies: Unity 3D · Blender · VR · 3D
  
 The project focuses on interactive drone controls, a 3D simulation environment, and physics-based movement to create a realistic and engaging virtual flying experience.
 
-**Technologies:** Unity 3D · Blender · 3D Simulation · Physics-based Interaction · XR/Immersive Technology
+**Technologies:** Unity 3D · Blender · 3D Simulation · Physics-based Interaction · XR/Immersive Technology.
 
-
-📌 View the project repository for documentation, diagrams, screenshots, and project details.
+📌 [View the project repository](https://github.com/annmaria5804-2004/fpv-drone-simulation) for documentation, diagrams, screenshots, and project details.
 
 ---
 
