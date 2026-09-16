@@ -89,12 +89,21 @@ The project combines computer vision, machine learning, and web technologies to 
 
 A high-fidelity **First-Person View (FPV) drone simulation** developed using Unity 3D and Blender to provide an immersive virtual flight experience.
 
+Highlights:
+🚁 FPV drone-view simulation
+🏫 Virtual campus environment
+🥽 VR-based campus demonstration
+🎮 Interactive drone movement and controls
+🌍 3D environment development
+
+Technologies: Unity 3D · Blender · VR · 3D
+ 
 The project focuses on interactive drone controls, a 3D simulation environment, and physics-based movement to create a realistic and engaging virtual flying experience.
 
 **Technologies:** Unity 3D · Blender · 3D Simulation · Physics-based Interaction · XR/Immersive Technology
 
 
-📌 Project documentation and implementation details will be added as the project repository is developed.
+📌 View the project repository for documentation, diagrams, screenshots, and project details.
 
 ---
 
