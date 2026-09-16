@@ -29,7 +29,7 @@ My current focus is strengthening my skills in **Python, Django, REST APIs, Reac
 
 ### 💻 Programming Languages
 
-**Python** · **C** · **Java** · **JavaScript**
+**Python** · **C** · **Java** · **JavaScript** · **TypeScript**
 
 ### 🌐 Frontend Development
 
@@ -79,9 +79,9 @@ A computer-vision-based application designed to recognize Indian Sign Language g
 
 The project combines computer vision, machine learning, and web technologies to create an accessible communication-oriented application.
 
-**Technologies:** Python · Django · OpenCV · MediaPipe · Machine Learning · HTML5 · CSS3 · JavaScript · SQL
+**Technologies:** Python · Django · OpenCV · MediaPipe · Random Forest · HTML5 · CSS3 · JavaScript · SQL · TypeScript · Angular
 
-📌 Detailed project documentation, implementation details, screenshots, and source code will be added to the repository.
+📌 [View the complete project repository](https://github.com/annmaria5804-2004/indian-sign-language-translator) for documentation, implementation details, diagrams, screenshots, and source code.
 
 ---
 
@@ -93,7 +93,8 @@ The project focuses on interactive drone controls, a 3D simulation environment, 
 
 **Technologies:** Unity 3D · Blender · 3D Simulation · Physics-based Interaction · XR/Immersive Technology
 
-📌 Detailed documentation, screenshots, implementation information, and source code will be added to the repository.
+
+📌 Project documentation and implementation details will be added as the project repository is developed.
 
 ---
 
